@@ -1,0 +1,2 @@
+# Safety_features
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f3d5765e3b79427282bf6480add2d292)](https://app.codacy.com/app/keerthi1030/Safety_features?utm_source=github.com&utm_medium=referral&utm_content=keerthi1030/Safety_features&utm_campaign=Badge_Grade_Dashboard)
