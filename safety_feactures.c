@@ -107,7 +107,7 @@ int main()
         PORTD|=(1<<PD7);
         Serial.println("a");
       }
-      else if(value<=200)
+      else 
       {
        TCCR0B=0x00;
         PORTD&=~(1<<PD7);
